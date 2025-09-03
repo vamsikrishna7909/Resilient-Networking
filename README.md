@@ -14,16 +14,16 @@ It showcases retries, exponential backoff with jitter, idempotency for safe POST
 ## 📱 Screenshots
 
 ### Home Screen
-<img src="Home.png" width="300">
+<img src="screenshots/Home.png" width="300">
 
 ### Deduped GET Request
-<img src="GET.png" width="300">
+<img src="screenshots/GET.png" width="300">
 
 ### Successful POST Request
-<img src="POST-201.png" width="300">
+<img src="screenshots/POST-201.png" width="300">
 
 ### POST with Network Error + Retry
-<img src="POST-Error.png" width="300">
+<img src="screenshots/POST-Error.png" width="300">
 
 ## 🚀 How It Works
 
